@@ -3,7 +3,7 @@ HEAD
 Capacitor plugin for whisper kit
 
 You will need ot add ggml-base.en.bin to ios/Sources/WhisperkitTranscriberPlugin/as it is too large for github
-Might need to remove it from your directory to push
+Might need to remove it from your directory to push it, 
 Let's you run Whisperkit locally in your Capactior build iOS app
 
 ## Install
