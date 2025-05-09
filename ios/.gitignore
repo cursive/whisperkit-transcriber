@@ -6,3 +6,4 @@ DerivedData/
 .swiftpm/configuration/registries.json
 .swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
 .netrc
+ios/Sources/WhisperkitTranscriberPlugin/ggml-base.en.bin
